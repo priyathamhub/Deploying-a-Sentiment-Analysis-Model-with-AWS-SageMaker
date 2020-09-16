@@ -14,3 +14,9 @@ Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/mas
 * Training   : ml.p2.xlarge
 * Deployment : ml.m4.xlarge
 
+### My Website Page Design:
+
+![indexhtmloutput](https://user-images.githubusercontent.com/58246016/93357068-8974c680-f85d-11ea-8bb5-6350937f0433.jpeg)
+
+### Positive Review of the image looks like:
+<img width="879" alt="outout" src="https://user-images.githubusercontent.com/58246016/93357259-b9bc6500-f85d-11ea-9962-27aa260a8c3b.png">
